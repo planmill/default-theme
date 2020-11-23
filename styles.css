@@ -25,7 +25,6 @@
   position: fixed;
   z-index: 1;
 }
-
 /*PlanMill custom css*/
 .nav>li>a:focus, .nav>li>a:hover {
   text-decoration: none;
