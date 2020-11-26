@@ -92,6 +92,12 @@ body {
 a {
   color: #337ab7 !important;
 }
+/*PlanMill custom css*/
+@media screen and (max-width: 1200px) {
+  #sidebar {
+    margin-left: -20px;
+  }
+}
 .hljs {
   background: transparent;
 }
