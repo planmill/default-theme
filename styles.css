@@ -55,10 +55,10 @@ body {
 }
 /*PlanMill custom css*/
 #sidebar {
-  margin-top: 10px;
-  padding-right: 0px;
+  margin-top: 2px;
+  padding-top: 9px;
   overflow: auto;
-  height: 94.1%;
+  height: 95%;
   background-color: #ffffff;
   transition: box-shadow .75s;
   border-radius: 0px;
