@@ -15,7 +15,7 @@
 /*PlanMill custom css*/
 .h1, h1 {
   font-size: 30px;
-  margin-top: -60px !important;
+  margin-top: -50px !important;
   white-space: nowrap !important;
   padding-top: 0px !important;
   color: white;
@@ -55,10 +55,10 @@ body {
 }
 /*PlanMill custom css*/
 #sidebar {
-  margin-top: 0px;
+  margin-top: 10px;
   padding-right: 0px;
   overflow: auto;
-  height: 94%;
+  height: 94.1%;
   background-color: #ffffff;
   transition: box-shadow .75s;
   border-radius: 0px;
@@ -69,7 +69,7 @@ body {
 }
 /*PlanMill custom css*/
 .row {
-  padding-top: 50px;
+  padding-top: 40px;
   background-color: white;
 }
 /*PlanMill custom css*/
