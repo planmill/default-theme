@@ -5,13 +5,12 @@
 /*PlanMill custom css*/
 .container:before {
   background: #20272B;
-  width: 2000px !important;
   font-size: 36px;
-  margin-left: -270px !important;
-  padding: 10px 0 10px 190px;
-  height: 70px !important;
+  height: 50px !important;
   position: fixed;
   z-index: 1;
+  margin: 0 -9999rem;
+  padding: 0.25rem 9999rem;
 }
 /*PlanMill custom css*/
 .h1, h1 {
@@ -56,20 +55,21 @@ body {
 }
 /*PlanMill custom css*/
 #sidebar {
-  margin-top: 10px;
+  margin-top: 0px;
   padding-right: 0px;
   overflow: auto;
-  height: 88%;
+  height: 94%;
   background-color: #ffffff;
   transition: box-shadow .75s;
-  border-radius: 9px;
+  border-radius: 0px;
   width: 200px;
   margin-left: 20px;
   box-shadow: 3px 3px 5px 6px #ccc;
+  padding-bottom: 10px;
 }
 /*PlanMill custom css*/
 .row {
-  padding-top: 60px;
+  padding-top: 50px;
   background-color: white;
 }
 /*PlanMill custom css*/
