@@ -60,14 +60,14 @@ body {
 /*PlanMill custom css*/
 #sidebar {
   overflow: auto;
-  height: calc(100vh - 50px);
+  height: calc(100vh - 45px);
   background-color: #ffffff;
   transition: box-shadow .75s;
   border-radius: 0px;
   width: 200px;
   margin-left: 20px;
   box-shadow: 3px 3px 5px 6px #ccc;
-  margin-top: 10px;
+  margin-top: 6px;
 }
 /*PlanMill custom css*/
 .row {
