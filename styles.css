@@ -15,7 +15,7 @@
 /*PlanMill custom css*/
 .h1, h1 {
   font-size: 28px;
-  margin-top: -52px !important;
+  margin-top: -48px !important;
   white-space: nowrap !important;
   padding-top: 0px !important;
   color: white;
@@ -26,8 +26,12 @@
 /*PlanMill custom css*/
 .nav>li>a:focus, .nav>li>a:hover {
   text-decoration: none;
-  border-left: 1px solid #b73d33;
+  border-left: 2px solid #ccc;
   background-color: #f5f5f5 !important;
+}
+/*PlanMill custom css*/
+.nav-pills>li>a {
+  border-left: 2px solid #ffffff;
 }
 /*PlanMill custom css*/
 .nav-pills>li:first-child>a:focus, .nav-pills>li.active+ li>a, .nav-pills>li.active+ li>a:focus, .nav-pills>li.active+ li>a:hover {
@@ -56,14 +60,14 @@ body {
 /*PlanMill custom css*/
 #sidebar {
   overflow: auto;
-  height: calc(100vh - 42px);
+  height: calc(100vh - 50px);
   background-color: #ffffff;
   transition: box-shadow .75s;
   border-radius: 0px;
   width: 200px;
   margin-left: 20px;
   box-shadow: 3px 3px 5px 6px #ccc;
-  margin-top: 2px;
+  margin-top: 10px;
 }
 /*PlanMill custom css*/
 .row {
