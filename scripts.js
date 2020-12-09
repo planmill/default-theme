@@ -1,11 +1,11 @@
 $(document).ready(function() {
 
-  $('[data-toggle]').click(function() {
+  /*$('[data-toggle]').click(function() {
     var selector = $(this).data('target') + ' pre code';
     $(selector).each(function(i, block) {
       hljs.highlightBlock(block);
     });
-  });
+  });*/
 
   // open modal on hashes like #_action_get
   $(window).bind('hashchange', function(e) {
